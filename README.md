@@ -15,7 +15,7 @@ This specific Github repository consists of a setup file and a project file, the
 
 # Overview
 
-Crypto is a standard VPN based phishing application which is constructed with the help of Visual Studio, the applications is inspired by gmail login page (looks exactly like it), it will ask its user to enter the email id and password into the login window and then those credentials will be logged and stored in the local computer, sthe stored data will be encrypted and hidden to prevent any unauthorized access.
+Crypto is a standard VPN based phishing application which is constructed with the help of Visual Studio, the applications is inspired by gmail login page (looks exactly like it), it will ask its user to enter the email id and password into the login window and then those credentials will be logged and stored in the local computer, all of the stored data will be encrypted and hidden to prevent any unauthorized access.
 
 # Project installation
 
