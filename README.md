@@ -3,6 +3,8 @@
 
 [Overview](#overview)
 
+[Disclaimer](#Disclaimer)
+
 [Project Installation](#project-installation)
 
 [Technologies](#technologies)
@@ -15,7 +17,11 @@ This specific Github repository consists of a setup file and a project file, the
 
 # Overview
 
-Crypto is a standard VPN based phishing application which is constructed with the help of Visual Studio, the applications is inspired by gmail login page (looks exactly like it), it will ask its user to enter the email id and password into the login window and then those credentials will be logged and stored in the local computer, all of the stored data will be encrypted and hidden to prevent any unauthorized access.
+Crypto is a standard VPN based phishing application which is constructed with the help of Visual Studio, the applications is inspired by gmail login page (looks exactly like it which makes it easier for poeple to believe that it is authentic), it will ask its user to enter the email id and password into the login window and then those credentials will be logged and stored in the local computer, all of the stored data will be encrypted and hidden to prevent any unauthorized access.
+
+# Disclaimer
+
+Although the design is inspired by Google, and it is just an phishing application,  it is only mean for the education purposes, I do not hold any responsibilty of any act commited using this code and the setup file (resources), all the means provided here is just to demonstrate the functionalities which might be possible using certain technologies. It is advised that these resources are only used for the education purposes.
 
 # Project installation
 
@@ -29,6 +35,3 @@ The software can be installed by using the setup file provided in the repository
 # Contributors
 
 1. Dhrruv Tokas (Available through starrytricks@gmail.com).
-
-# Rights And Regulations:
-1. Although the design is inspired by Google, and it is just an phishing application,  it is only mean for the education purposes, I do not hold any responsibilty of any act commited using this code and the setup file (resources), all the means provided here is just to demonstrate the functionalities which might be possible using certain technologies. It is advised that these resources are only used for the education purposes.
